@@ -8,7 +8,7 @@ I design and ship products end to end, from the first sketch to the server it ru
 
 ### Open source
 
-| | |
+| Project | What it does |
 | --- | --- |
 | [**TransparentXImages**](https://github.com/05v/TransparentXImages) | Turn any image into a white, transparent PNG for X. [Open the app](https://05v.github.io/TransparentXImages/) |
 | [**RemoveCord**](https://github.com/05v/RemoveCord) | Delete your messages from a Discord server. Tampermonkey userscript. |
